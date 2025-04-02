@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="ugSQl16COUubM3U-KHsMMA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAFpSURBVDhPzdG/S5BhFMXxT5mUVCpWIApFgYuLmaiE5RCCNkUQmBAoCEpU6NogSLTo1BAYDY416BY4SFGLDS1FgWCFlUXpIPYDjAoqrtx3Ef8AL7zw8tzn+d5zz2E71Q7szC/+N1fR27J/EFfwGHO4iaPZiwdncB/P8AC9qCgel2IY63iHBfzEJKrQgjdYwXN8zLtD2BWAI3iIr+jEcbzGd7TiOv6lqn3oTthdHApAIz7hEWqxB10YxGGMJ+BWyq7EWTSjLABt+INpVKfsuLg/JV7AGr7hCS6jptg/6nROCEA93mIVy2jKKWHwi4T8xkv0YHcA2hMwhWO4nWb+xUnsTWUN6MdsKn6VA53AZzzNnUN+wAIa8D7MpC9RYeyHVHIqDiLv2O0XLqEDi6kgACMJu4c6XExPljKxDaOu5n4Bicb7fBQrhNvzmf2PjPcLbqC8MPIABjCBaziPO6muJJMazbMxnMs4t0H9B3TpVIYb2hK7AAAAAElFTkSuQmCC" Selector="&lt;html app='msedge.exe' title='Gujarat City News in Gujarati, ગુજરાત સમાચાર ગુજરાતીમાં - ગુજરાત સમાચાર' /&gt;" Title="Gujarat City News in Gujarati, ગુજરાત સમાચાર ગુજરાતીમાં - ગુજરાત સમાચાર" Url="https://www.gujaratsamachar.com/city/all/1" Version="V1">
+      <imageRef attrName="InformativeScreenshot" originalValue="7dbb7bbca1d29b7312caf8c837f8f08c.jpg" xmlns="">0E5T0dzWeoU-VMpmL72lIvg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

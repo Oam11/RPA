@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="hX-1PXKI3kKWGya9Svtezg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.ebay.com/itm/326506636168?var=515595645394&amp;epid=9074309734&amp;itmmeta=01JQM3V7DXT42ZH840PJGVBKX6&amp;hash=item4c054fe388:g:x7AAAOSwcSFn5fx1&amp;itmprp=enc%3AAQAKAAAA4AYiKrcLdLA5QJvOiNupZlRyjufx4p3p1taCa9gG4ry39vxSSF6iah6%2BX3GYfmCVJnbF7qlPkBomYCrS%2BSzoYD1XCn4Y5qnktlRJcrBeBg3dogVkjX1DDfy24ZZ1sxN6lDPjE56uFbh03Khg8yLd4smMd3mK6BDM8jufcIfdXErel0dczlhluX3MPpqqzk%2BqsSTcgR0EksqyLm5LvZUYd92mj3nrHOiwuzqIDq%2Ft6eUCew6%2BuUTVLgaUzYdov%2BtAGPKySOx4Fxx9N7AKF4JlF%2B6hk4Ulm2L5DyA%2F0KbEiArk%7Ctkp%3ABk9SR5j37IO9ZQ" DesignTimeRectangle="1185, 325, 568, 1083" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl parentid='mainContent' tag='DIV' /&gt;" Guid="a9941a2c-36ff-4cda-b276-095b0c7c2234" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='9527ebay#{&amp;quot;parentId&amp;quot;:&amp;quot;cc629203-c9ba-43e1-8c9c-ee5a5a82eaf5&amp;quot;,&amp;quot;parentPage&amp;quot;:&amp;quot;4429486&amp;quot;,&amp;quot;screenId&amp;quot;:&amp;quot;d46d2d64-fb49-428c-bcf6-615c58e10102&amp;quot;}' title='Nike Air Jordan 12 Retro Flu Game Black Red CT8013-002 Men’s or GS Shoes NEW | eBay' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="622c89570b35e6810350e7fa545278fc.png" xmlns="">0VLEGoaXxB0e_hPvtyxhGzQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">ExtractData</x:String>
+    <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Structured' AddCvHeader='true' IsScrollEnabled='false'&gt;
+	&lt;Column xsi:type='DataColumn' ReferenceName='Column0' Name='New column 0'&gt;
+		&lt;IsValidName&gt;true&lt;/IsValidName&gt;
+		&lt;ValidationErrorMessage /&gt;
+		&lt;IsExtra&gt;false&lt;/IsExtra&gt;
+		&lt;CanExtractSimilar&gt;false&lt;/CanExtractSimilar&gt;
+		&lt;Format xsi:type='TextColumnFormat' /&gt;
+	&lt;/Column&gt;
+&lt;/Table&gt;</p:InArgument>
+    <x:Null x:Key="NextLinkTarget" />
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

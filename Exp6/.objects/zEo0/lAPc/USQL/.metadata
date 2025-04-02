@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge 23,000 Ai Job Vacancies  Indeed",
+  "Type": "Screen",
+  "Id": "USQLW179JEOhU_5dvkYA0g",
+  "Reference": "0c3y7nOS-Euy7B9RLY2Fjw/USQLW179JEOhU_5dvkYA0g",
+  "ParentRef": "0c3y7nOS-Euy7B9RLY2Fjw/lAPcbRnCd0esWCbxejP1sw",
+  "Created": "2025-03-30T14:24:05.6805467Z",
+  "Updated": "2025-03-30T14:24:05.6805467Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.2.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

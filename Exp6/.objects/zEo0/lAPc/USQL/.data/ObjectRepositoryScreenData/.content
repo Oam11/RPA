@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryScreenData ContentHash="bytuSg6hd0S8V-gKvBgfVw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryScreenData.Data>
+    <TargetApp x:Key="TargetApp" Area="-8, -8, 1936, 1048" BrowserType="Edge" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAInSURBVFhHrZe/TgJBEMZ5BB6BR6C2srLVaC/0FtppB4n20AtBK2KhNtLQiI1WSGElDVbYmFwCjVaf+Y5bOIb9e9wv2dzlbm/nm9nZ3blCwRMARQBVAB0AIwARVvCez/iuwr7y+8wAKAFoCoM+UExJjudN4nFDjpqBhhzbSeL1RI60BRzLLxoAyj7Gn9+nOG2+4uC8j92Tp/h60/tENP+VXRUcsyztreHjOQ3TYGHnOr5WLwdLIaXDLkpHXTy+fMnPFOZIJHNuNV5vD1Hcu0WtPUQ003tKgRTCqwHa2FwlroQ7a76hfHyPyXQmX2kZjX/kozTriZmE3gg9p3HpNcVYPHWxmgoAN/KtYvI9i0OaNs5EU3nAxnlnv0Cayjjn3kg8uAh75WqwNK4aBQXCja1IAdxetTC8tdZQPka58rAhgC0DVWv4663hhvdk/6K/YZzTlIEOBfAQ0cL1rYORkQIadx+ymw8jCtAeMlxGtgxnZCiQG5Gtn4OIArQ41nFuGAXINS+hQLZObxyvgKxRME6Bi/Q+wJZRQDwFxiS0kZOAOAmNy9BGTgLiZWjciGzkJKCituLgPMhJwOJYTorOIHIQ0PE+jnXkIGC9MgqNwpYCFkexEOAsydJsIUBfkhGfolTBEk0ZZ50Yzf9kFx3molThW5bTIAsTVsOe3rvLckVIJDxxey5JciIoMQ1wDP2c+5BEI3S75sZGw2Fe20j9nlOM7fecfbw9/gev5Fg6+x2CGQAAAABJRU5ErkJggg==" Selector="&lt;html app='msedge.exe' title='23,000 Ai Job Vacancies | Indeed' /&gt;" Url="https://in.indeed.com/jobs?q=AI&amp;l=&amp;from=searchOnHP&amp;vjk=735ad5a443fba11e" Version="V2">
+      <imageRef attrName="InformativeScreenshot" originalValue="287a8c096cfd58f87dbf423916b74e1b.jpg" xmlns="">0uHc21QoMy0a110u1Vv6CGg</imageRef>
+    </TargetApp>
+  </ObjectRepositoryScreenData.Data>
+</ObjectRepositoryScreenData>

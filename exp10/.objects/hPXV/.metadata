@@ -1,0 +1,12 @@
+﻿{
+  "Name": "1ce739de-a949-48e6-af21-b37331aa976e.jpg",
+  "Type": "App",
+  "Id": "hPXVGfcUv0Gn3arBPXDpow",
+  "Reference": "rK8lJEgr-kSEH7uSDsthuw/hPXVGfcUv0Gn3arBPXDpow",
+  "Created": "2025-03-30T19:25:05.0980076Z",
+  "Updated": "2025-03-30T19:25:05.0980076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

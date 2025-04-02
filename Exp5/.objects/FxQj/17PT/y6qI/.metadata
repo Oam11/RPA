@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Navigate to website and scrape data",
+  "Type": "Screen",
+  "Id": "y6qIvatr6kezs31l6mrk4Q",
+  "Reference": "XXSvlKetY0Kbl8wvr2IOyA/y6qIvatr6kezs31l6mrk4Q",
+  "ParentRef": "XXSvlKetY0Kbl8wvr2IOyA/17PTTvAQfkO6EbTOyEHayA",
+  "Created": "2025-03-30T14:06:59.217992Z",
+  "Updated": "2025-03-30T14:06:59.217992Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

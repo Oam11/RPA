@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Stay in step with luxury  eBay. Discover",
+  "Type": "Screen",
+  "Id": "i2hsvL4240GPlqLk-LT7aA",
+  "Reference": "qlZ0l2Y6NUiQM9BQAnkbsQ/i2hsvL4240GPlqLk-LT7aA",
+  "ParentRef": "qlZ0l2Y6NUiQM9BQAnkbsQ/OMLfHohZqUiySVWU0M8GSg",
+  "Created": "2025-03-30T18:08:34.9729873Z",
+  "Updated": "2025-03-30T18:08:34.9729873Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

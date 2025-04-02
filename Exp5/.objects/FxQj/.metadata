@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Navigate to website and scrape data",
+  "Type": "App",
+  "Id": "FxQjZy5b-kWMtcwcSuShbA",
+  "Reference": "XXSvlKetY0Kbl8wvr2IOyA/FxQjZy5b-kWMtcwcSuShbA",
+  "Created": "2025-03-30T14:06:59.174197Z",
+  "Updated": "2025-03-30T14:06:59.174197Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

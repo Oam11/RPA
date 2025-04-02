@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge Gujarat City News in Gujarati, ગુજરાત સમ",
+  "Type": "Screen",
+  "Id": "EmF9XIgRzUevlXho8_-6ww",
+  "Reference": "_mbQPxAjBEe3NZ-unYpw0g/EmF9XIgRzUevlXho8_-6ww",
+  "ParentRef": "_mbQPxAjBEe3NZ-unYpw0g/OJ2_Gl6Rv0SB7ByaiwOUyg",
+  "Created": "2025-03-30T12:53:09.4049716Z",
+  "Updated": "2025-03-30T12:53:09.4049716Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

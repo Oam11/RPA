@@ -1,0 +1,13 @@
+﻿{
+  "Name": "client D2DImageControl",
+  "Type": "Element",
+  "Id": "0Z2QbO-iPk24SOlReCxCxw",
+  "Reference": "rK8lJEgr-kSEH7uSDsthuw/0Z2QbO-iPk24SOlReCxCxw",
+  "ParentRef": "rK8lJEgr-kSEH7uSDsthuw/ngO2F-X-4kegLRVcDz0_xg",
+  "Created": "2025-03-30T19:26:41.4520265Z",
+  "Updated": "2025-03-30T19:26:41.4520265Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

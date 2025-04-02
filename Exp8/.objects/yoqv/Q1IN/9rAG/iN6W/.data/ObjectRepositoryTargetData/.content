@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="D-mPdmR3b0OKnb5Jnn8mtg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ebay.com/e/row/luxurysneakersrow" DesignTimeRectangle="484, -6954, 287, 287" DesignTimeScaleFactor="1" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='brwrvr__item-card__image' tag='IMG' type='' aaname='Nike Air Jordan 12 Retro Flu Game Black Red CT8013-002 Men’s or GS Shoes NEW - Image 1 of 4' /&gt;" Guid="326bb263-56fe-49e3-8bb6-2f63f8e5dc19" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='9527ebay#{&amp;quot;parentId&amp;quot;:&amp;quot;564c6dbb-ad55-4320-889d-a8d09bdfda4f&amp;quot;,&amp;quot;parentPage&amp;quot;:&amp;quot;4589523&amp;quot;,&amp;quot;screenId&amp;quot;:&amp;quot;d46d2d64-fb49-428c-bcf6-615c58e10102&amp;quot;}' title='Stay in step with luxury | eBay. Discover sneakers from top brands.' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="1393, 347, 287, 287" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='DD1391-104 Nike Dunk Low Championship Court Purple White (Men&amp;apos;s) - Image 1 of 4' class='brwrvr__item-card__image' tag='IMG' type='' /&gt;" Guid="e86ca787-d451-4fa4-bc9f-df3e6e2367d2" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="0e3adb0882ccf5a2bb1853c85e91ebf0.png" xmlns="">0Q5Jwpl53V0ulaMa_MIWK8A</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

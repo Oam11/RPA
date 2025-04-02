@@ -1,0 +1,12 @@
+﻿{
+  "Name": "rl - ass 1 ,2 - Notepad",
+  "Type": "App",
+  "Id": "yoqv6NH5vE6StUreLfoa9w",
+  "Reference": "qlZ0l2Y6NUiQM9BQAnkbsQ/yoqv6NH5vE6StUreLfoa9w",
+  "Created": "2025-03-30T18:42:56.7275251Z",
+  "Updated": "2025-03-30T18:42:56.7275251Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

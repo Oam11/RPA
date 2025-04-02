@@ -1,0 +1,13 @@
+﻿{
+  "Name": "1ce739de-a949-48e6-af21-b37331aa976e.jpg",
+  "Type": "Screen",
+  "Id": "ngO2F-X-4kegLRVcDz0_xg",
+  "Reference": "rK8lJEgr-kSEH7uSDsthuw/ngO2F-X-4kegLRVcDz0_xg",
+  "ParentRef": "rK8lJEgr-kSEH7uSDsthuw/Ra6Wdgi2XE-0m6vmigbFTQ",
+  "Created": "2025-03-30T19:25:05.1413671Z",
+  "Updated": "2025-03-30T19:25:05.1413671Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

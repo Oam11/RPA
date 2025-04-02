@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="kgKfSMreNkqohMLxlSEYdw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="salad.com/pricing" DesignTimeRectangle="321, 178, 1280, 72" DesignTimeScaleFactor="1" FuzzySelectorArgument="&lt;webctrl class='navbar_container' tag='DIV' type='' aaname='' check:innerText='Products&amp;#xA;Pricing&amp;#xA;Use Cases&amp;#xA;About&amp;#xA;Blog&amp;#xA;Resources&amp;#xA;Earn with your GPU&amp;#xA;Deploy on SaladCloud' /&gt;" Guid="a1916fad-56a1-4a89-875e-fe712a94ff5e" ScopeSelectorArgument="&lt;html app='msedge.exe' title='Salad GPU Cloud Pricing | Rent GPUs from $0.02/hr' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="9c35b14f-a982-4922-9273-083f347a234a" CvElementArea="380, 297, 265, 48" CvType="InputBox" DesignTimeRectangle="433, 305, 111, 29" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='RTX 5090 (32 GB)  ' tag='LABEL' type='' class='' check:innerText='RTX 5090 (32 GB)&amp;#xA;$0.27 per hour' /&gt;" Guid="fdd80abd-123e-48ee-9075-e7681a604b3c" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="b6a64dfd8de9d89ebd9986973f90cbb0.png" xmlns="">0Sfy-QuxoSUSZvCW4hdZwOA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

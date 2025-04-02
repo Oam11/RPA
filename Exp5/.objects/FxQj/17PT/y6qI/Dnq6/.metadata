@@ -1,0 +1,13 @@
+﻿{
+  "Name": "RTX 5090 (32 GB) $0.27 …",
+  "Type": "Element",
+  "Id": "Dnq6R_gIFkaQ-dW_8-Btzg",
+  "Reference": "XXSvlKetY0Kbl8wvr2IOyA/Dnq6R_gIFkaQ-dW_8-Btzg",
+  "ParentRef": "XXSvlKetY0Kbl8wvr2IOyA/y6qIvatr6kezs31l6mrk4Q",
+  "Created": "2025-03-30T14:14:24.1231827Z",
+  "Updated": "2025-03-30T14:14:24.1231827Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.8.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

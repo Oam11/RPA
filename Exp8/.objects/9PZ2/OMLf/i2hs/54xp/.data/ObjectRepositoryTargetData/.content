@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="bS-1TfCM0UKoyx6sJ9gebg" Reference="qlZ0l2Y6NUiQM9BQAnkbsQ/54xpC1rhdEiNUSZ1MjGiNA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ebay.com/e/row/luxurysneakersrow" DesignTimeRectangle="484, 645, 287, 36" DesignTimeScaleFactor="1" ElementType="Text" FuzzySelectorArgument="&lt;webctrl parentid='mainContent' tag='H3' type='' class='textual-display bsig__title__text' /&gt;" Guid="556b1c16-6d7b-49b4-b906-ffdc0400b300" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='9527ebay#{&amp;quot;parentId&amp;quot;:&amp;quot;564c6dbb-ad55-4320-889d-a8d09bdfda4f&amp;quot;,&amp;quot;parentPage&amp;quot;:&amp;quot;4589523&amp;quot;,&amp;quot;screenId&amp;quot;:&amp;quot;d46d2d64-fb49-428c-bcf6-615c58e10102&amp;quot;}' title='Stay in step with luxury | eBay. Discover sneakers from top brands.' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="787, 645, 287, 36" ElementType="Text" FuzzySelectorArgument="&lt;webctrl aaname='HJ9351-001 Nike Total 90 3 SP Black and White (Men&amp;apos;s)' parentid='mainContent' tag='H3' type='' class='textual-display bsig__title__text' check:innerText='HJ9351-001 Nike Total 90 3 SP Black and White (Men&amp;apos;s)' /&gt;" Guid="268efa28-7931-4006-92ca-1b7abe0bcccf" SearchSteps="FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="43cccf7796ee9580018a40d4d41a9723.png" xmlns="">0k0JoKv-Z_0ey5kLQYIH27w</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

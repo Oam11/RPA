@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="UVIXRCTKD0Och34MlPyIpQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ebay.com/e/row/luxurysneakersrow" DesignTimeRectangle="484, 345, 287, 287" DesignTimeScaleFactor="1" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl class='brwrvr__item-card__image' tag='IMG' type='' aaname='Nike Air Jordan 12 Retro Flu Game Black Red CT8013-002 Men’s or GS Shoes NEW - Image 1 of 4' /&gt;" Guid="bca90f70-b1e6-404f-85d7-a4fb872ce19a" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='9527ebay#{&amp;quot;parentId&amp;quot;:&amp;quot;564c6dbb-ad55-4320-889d-a8d09bdfda4f&amp;quot;,&amp;quot;parentPage&amp;quot;:&amp;quot;4589523&amp;quot;,&amp;quot;screenId&amp;quot;:&amp;quot;d46d2d64-fb49-428c-bcf6-615c58e10102&amp;quot;}' title='Stay in step with luxury | eBay. Discover sneakers from top brands.' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="03becb0f1091e515217b99a327d1979a.png" xmlns="">03kKkqCPOmEiFG-GjiSBOeA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

@@ -1,0 +1,13 @@
+﻿{
+  "Name": "rl - ass 1 ,2 - Notepad",
+  "Type": "Screen",
+  "Id": "9rAGydTKCECP-UtXBDTr5Q",
+  "Reference": "qlZ0l2Y6NUiQM9BQAnkbsQ/9rAGydTKCECP-UtXBDTr5Q",
+  "ParentRef": "qlZ0l2Y6NUiQM9BQAnkbsQ/Q1INHXtztE2de_Uie1ACjg",
+  "Created": "2025-03-30T18:42:56.8015124Z",
+  "Updated": "2025-03-30T18:42:56.8015124Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

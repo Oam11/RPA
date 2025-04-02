@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="5c867_BTF0q3WiVt2hpxBQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="ebay.com/e/row/luxurysneakersrow" DesignTimeRectangle="787, 602, 287, 287" DesignTimeScaleFactor="1" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl aaname='HJ9351-001 Nike Total 90 3 SP Black and White (Men&amp;apos;s) - Image 1 of 4' class='brwrvr__item-card__image' tag='IMG' type='' /&gt;" Guid="c1a35ecb-dc31-49fc-a75b-47848fe827ef" ScopeSelectorArgument="&lt;html app='msedge.exe' htmlwindowname='9527ebay#{&amp;quot;parentId&amp;quot;:&amp;quot;564c6dbb-ad55-4320-889d-a8d09bdfda4f&amp;quot;,&amp;quot;parentPage&amp;quot;:&amp;quot;4589523&amp;quot;,&amp;quot;screenId&amp;quot;:&amp;quot;d46d2d64-fb49-428c-bcf6-615c58e10102&amp;quot;}' title='Stay in step with luxury | eBay. Discover sneakers from top brands.' /&gt;" SearchSteps="FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="79cb3e901bf1ec68a992dad2922af074.png" xmlns="">0IaOmF-tK7kyzeQh3TKRDaA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

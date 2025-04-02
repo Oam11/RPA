@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="9c125GYqkU-OaA5c72zYVQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="617, 56, 702, 936" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;wnd cls='Microsoft.UI.Content.DesktopChildSiteBridge' /&gt;&lt;ctrl automationid='D2DImageControl' /&gt;" FuzzySelectorArgument="&lt;wnd cls='Microsoft.UI.Content.DesktopChildSiteBridge' /&gt;&lt;ctrl automationid='D2DImageControl' role='client' /&gt;" Guid="f9aec53f-502f-47ad-a577-cb57f781fa5d" ScopeSelectorArgument="&lt;wnd app='photos.exe' appid='Microsoft.Windows.Photos_8wekyb3d8bbwe!App' title='1ce739de-a949-48e6-af21-b37331aa976e.jpg' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="95739d4ea260545bb9512f3139cb8c73.png" xmlns="">0R0I2sYc4MUeAQQYA04Jkjg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
